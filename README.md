@@ -3,8 +3,8 @@
 Cross‑platform workflow to log **Water** and **Calories** and review a 7‑day summary.
 
 - iOS: Shortcuts + Scriptable (JavaScript)
-- Android: Tasker project
-- Web: local PWA‑style page (no server; uses localStorage)
+- Planned, but not implemented at this time: Android: Tasker project ; 
+- Planned, but not implemented at this time: Web: local PWA‑style page (no server; uses localStorage) ; Currently not implemented
 
 CSV format (comma):
 ```
